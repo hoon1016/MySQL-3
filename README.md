@@ -4,9 +4,9 @@
 
 - between이란 숫자들 사이의 값을 between으로 나타 낼수 있다.예시로 
 
--  select * from books
+- select * from books
 
--  where released_year between 2004 and 2015;
+- where released_year between 2004 and 2015;
 
 - 이런식으로 쓸수 있으며 식으론 select * from books where 컬럼명 between 숫자 and 숫자; 이런식으로 쓸수 있고
 
